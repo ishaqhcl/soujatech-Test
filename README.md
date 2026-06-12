@@ -32,5 +32,5 @@ with your actual Formspree endpoint.
 8. Output directory: `/`
 9. Deploy.
 10. Add custom domains:
-   - suojatech.com
-   - www.suojatech.com
+   - suojatech.fi
+   - www.suojatech.fi
